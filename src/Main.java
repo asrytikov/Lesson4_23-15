@@ -10,6 +10,7 @@ public class Main {
         int b = scanner.nextInt();
 
         System.out.printf("Sum a=%d and b=%d: %d \n",a, b, a+b);
+        System.out.println("Test");
 
     }
 }
