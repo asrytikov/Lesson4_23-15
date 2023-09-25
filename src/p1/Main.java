@@ -24,7 +24,6 @@ public class Main {
 
         boolean q = !(a>=10); // false
         boolean w = (a>=10) ^ (a>b);
-
     }
 
 }

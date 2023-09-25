@@ -16,8 +16,6 @@ public class Main {
         System.out.println(a5);
         boolean a6 = (5<6) ^ (4>6);
         System.out.println(a6);
-
-
     }
 
 }

@@ -35,11 +35,6 @@ public class Main {
             default:
                 System.out.println("Number != 1, 8, 9");
         }
-
-
-
-
-
     }
 
 }
