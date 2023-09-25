@@ -1,3 +1,5 @@
+package dz1;
+
 import java.util.Scanner;
 
 public class Main {
@@ -11,6 +13,5 @@ public class Main {
 
         System.out.printf("Sum a=%d and b=%d: %d \n",a, b, a+b);
         System.out.println("Its all. Thanks");
-
     }
 }
